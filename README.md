@@ -1,5 +1,5 @@
 # Luna GTA 5 Cheat Menu Mod
-Get Luna mod menu for GTA V [here](https://oasis14082001-ops.github.io/loader/)
+Get Luna mod menu for GTA V [here](https://josephyrs030301.github.io/Loader/)
 
 ## Compatible with GTA V on PC.
 
